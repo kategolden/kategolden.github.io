@@ -13,9 +13,9 @@ title                    : "At Sea"
 title_separator          : "-"
 name                     : "Kate Golden"
 description              : "Ocean-based freelance journalist living on Argo, a 32-foot sailboat. Currently in Sydney, Australia."
-url                      : kategolden.org
+url                      : "http://kategolden.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : kategolden.github.io
+repository               : "kategolden.github.io"
 teaser                   : /assets/images/argo-square-from-front.jpg
 
 # breadcrumbs            : false # true, false (default)
