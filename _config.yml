@@ -16,7 +16,7 @@ description              : "Ocean-based freelance journalist living on Argo, a 3
 url                      : "http://kategolden.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kategolden.github.io"
-teaser                   : /assets/images/argo-square-from-front.jpg
+teaser                   : "/assets/images/argo-square-from-front.jpg"
 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
