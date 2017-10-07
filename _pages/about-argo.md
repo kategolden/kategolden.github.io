@@ -1,4 +1,5 @@
 ---
+permalink: /aboutargo/
 excerpt: "My tiny home."
 header: 
 	overlay_image: /assets/images/argo-morning-pano.jpg
@@ -12,6 +13,7 @@ gallery:
     image_path: /assets/images/sydney-map-2-th.jpg
     alt: "placeholder image 2"
 ---
+
 *Argo* is a Nicholson 32, a classic fiberglass Bermuda sloop.
 
 ![image-center](/assets/images/argo-from-side.jpg)
