@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 header:
   image: /assets/images/before-dawn-pano.jpg
   image_description: "Before dawn, first morning on *Argo*, Pittwater, Australia."
