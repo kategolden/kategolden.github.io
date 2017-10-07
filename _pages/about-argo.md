@@ -2,8 +2,7 @@
 title: "Meet Argo"
 permalink: /about-argo/
 header: 
-	overlay_image: /assets/images/argo-morning-pano.jpg
-	image_description: "Argo, moored in Sydney."
+	image: /assets/images/argo-morning-pano.jpg
 excerpt: "My tiny home."
 gallery:
   - url: /assets/images/sydney-map-1.jpg
