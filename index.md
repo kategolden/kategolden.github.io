@@ -18,4 +18,5 @@ It depends, for one, on how seasick we get. And for another, how much we like sa
 
 What do we mean, you don't know how you like sailing? You don't know how seasick you get?
 
-Um. Here is the basic story: [How this happened](/how-we-quit-our-jobs-and-became-sea-gypsies-2017-10-07/)
+I will tell you that story, but first I need to get this new website up and running.
+<!--[How this happened](/how-we-quit-our-jobs-and-became-sea-gypsies-2017-10-07/)-->
