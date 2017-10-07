@@ -1,12 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-    children:
-      - title: "*Argo*"
-        url: /about-argo/
-      - title: "Kate"
-        url: /about-kate/
+  - title: "About Argo"
+    url: /about-argo/
   # - title: "Posts"
   # url: /year-archive/
   # - title: "Sample Collections"
@@ -15,10 +10,5 @@ main:
   #   url: /sitemap/
 
 pages:
-  - title: "About"
-    url: /about/
-    children:
-      - title: "*Argo*"
-        url: /about-argo/
-      - title: "Kate"
-        url: /about-kate/
+  - title: "About Argo"
+    url: /about-argo/
