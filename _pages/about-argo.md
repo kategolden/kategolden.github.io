@@ -1,9 +1,16 @@
 ---
 permalink: /about-argo/
-overlay_image: /assets/images/argo-pano.jpg
+overlay_image: /assets/images/argo-morning-pano.jpg
 image_description: "Argo, moored in Sydney."
 title: "Meet *Argo*"
 excerpt: "This is where I live now."
+gallery:
+  - url: /assets/images/sydney-map-1.jpg
+    image_path: /assets/images/sydney-map-1-th.jpg
+    alt: "Old Sydney maps, pleasantly waxy."
+  - url: /assets/images/sydney-map-2.jpg
+    image_path: /assets/images/sydney-map-2-th.jpg
+    alt: "placeholder image 2"
 ---
 *Argo* is a Nicholson 32, a classic Bermuda sloop.
 
