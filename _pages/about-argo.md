@@ -1,5 +1,4 @@
 ---
-permalink: /about-argo/
 excerpt: "My tiny home."
 header: 
 	overlay_image: /assets/images/argo-morning-pano.jpg
