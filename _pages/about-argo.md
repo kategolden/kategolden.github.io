@@ -1,4 +1,5 @@
 ---
+permalink: /about-argo/
 overlay_image: /assets/images/argo-pano.jpg
 image_description: "Argo, moored in Sydney."
 title: "Meet *Argo*"
