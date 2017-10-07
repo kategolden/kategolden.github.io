@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 locale                   : "en"
 title                    : "At Sea"
 title_separator          : "-"
-name                     : "Kate Golden"
-description              : "Ocean-based freelance journalist living on Argo, a 32-foot sailboat. Currently in Sydney, Australia."
-url                      : "http://kategolden.org"
+name                     : &name "Kate Golden"
+description              : &description "Ocean-based freelance journalist living on Argo, a 32-foot sailboat. Currently in Sydney, Australia."
+url                      : http://kategolden.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kategolden.github.io"
 teaser                   : "/assets/images/argo-square-from-front.jpg"
@@ -120,7 +120,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
