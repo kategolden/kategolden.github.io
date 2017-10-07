@@ -11,7 +11,6 @@ gallery:
     alt: "Old Sydney maps, pleasantly waxy."
   - url: /assets/images/sydney-map-2.jpg
     image_path: /assets/images/sydney-map-2-th.jpg
-    alt: "placeholder image 2"
 ---
 
 *Argo* is a Nicholson 32, a classic fiberglass Bermuda sloop.
