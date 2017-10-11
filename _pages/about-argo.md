@@ -42,10 +42,3 @@ The biggest problem we had from the start was a nasty case of blisters in her wa
 
 Now, we are working on where to put things. This is not trivial.
 ![full](/assets/images/Cabin.jpg){: .full}
-
-
-
-
-
-
-
