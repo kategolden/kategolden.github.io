@@ -36,9 +36,11 @@ Maybe *Argo* is one of the Nicholson 32s that were built in Sydney back in the 1
 
 {% include gallery caption="She came with some lovely old waxed charts first published in 1963." %}
 
-##Getting *Argo* ocean-ready
+Getting *Argo* ocean-ready
+__________________________
 
-The biggest problem we had from the start was a nasty case of blisters in her water tank. This tank was built into her keel out of fiberglass, probably back in the 60s. Blistering often plagues fiberglass boats from this era — it's well known that you have to tap-tap-tap all around the hull to listen for blisters that may have formed by water seeping into the hull. *Argo* didn't have that problem, or if she had it was fixed already, but the water tank (same material) was another story. Our surveyor warned us not to drink the water because it could contain styrene ([central nervous and respiratory effects, also possibly carcinogenic](http://www.npi.gov.au/resource/styrene-ethenylbenzene)).
+One major problem was a nasty case of blisters in her water tank. This tank was built into her keel out of fiberglass, probably back in the 60s. Blistering often plagues fiberglass boats from this era — it's well known that you have to tap-tap-tap all around the hull to listen for blisters that may have formed by water seeping into the hull. *Argo* didn't have that problem, or if she had it was fixed already, but the water tank (same material) was another story. Our surveyor warned us not to drink the water because it could contain styrene ([central nervous and respiratory effects, also possibly carcinogenic](http://www.npi.gov.au/resource/styrene-ethenylbenzene)).
+
 
 Now, we are working on where to put things. This is not trivial.
 ![full](/assets/images/Cabin.jpg){: .full}
